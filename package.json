@@ -1,0 +1,25 @@
+{
+  "name": "life_science_event_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/alexandersb98/life_science_event_scraper"
+  },
+  "keywords": [
+    "life",
+    "science",
+    "data",
+    "scraping",
+    "events"
+  ],
+  "author": "Alexander Simola Bergsten",
+  "license": "Unlicense",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
